@@ -1,1 +1,1 @@
-# A Baisc guide for Machine Learning for beginners using Magic data dataset
+# A Baisc guide for Machine Learning for beginners.
