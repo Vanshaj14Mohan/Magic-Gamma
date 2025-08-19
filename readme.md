@@ -1,1 +1,1 @@
-# A Baisc guide for Machine Learning for beginners.
+# A Basic guide for Machine Learning for beginners.
